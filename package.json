@@ -6,12 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
-    "@objectiv/tracker-react": "^0.0.22-2",
+    "@objectiv/plugin-locale-context": "^0.0.23",
+    "@objectiv/tracker-react": "^0.0.23",
     "next": "^10.2.3",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@objectiv/developer-tools": "^0.0.22-1"
+    "@objectiv/developer-tools": "^0.0.23"
   }
 }
